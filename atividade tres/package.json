@@ -1,0 +1,17 @@
+{
+    "name": "express",
+    "version": "1.0.0",
+    "description": "Projeto criado em aula para aprender Node com Express",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+      "express"
+    ],
+    "author": "Marcos",
+    "license": "ISC",
+    "dependencies": {
+      "express": "^4.19.2"
+    }
+  }
